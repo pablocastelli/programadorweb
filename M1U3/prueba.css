@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+    background-color: greenyellow;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    font-style: italic;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.destacado {
+    font-size: 18px;
+    text-decoration: underline;
+}
